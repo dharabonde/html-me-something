@@ -1,0 +1,39 @@
+div.wrapper {
+    width: 100%;
+    border: 1px solid gray;
+    background-color: aquamarine;
+}
+ 
+.pic {
+    border-radius: 50%;
+  }
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: rgba(19, 4, 26, 0.904);   
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+article {    
+    padding: 1em;    
+}
+html, body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 1px;
+    padding: 2px;
+  }
+  
+  .A {
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .pic {
+    border-radius: 50%;
+  }
